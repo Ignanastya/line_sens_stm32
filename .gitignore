@@ -1,5 +1,0 @@
-# Ignore all debug and settings files 
-/MDK_ARM/DebugConfig
-/MDK_ARM/line_detector
-/MDK_ARM/RTE
-*.ignat
